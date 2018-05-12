@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5119'
     url: http://www.gutenberg.org/2009/agents/5119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13537#The-Library-of-Work-and-Play--Gardening-and-Farming.
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2004-09-27'
 gutenberg_type: Text
